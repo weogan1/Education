@@ -1,2 +1,3 @@
 # Gamehub
-This website is for... educational purposes...
+You need Help wit math?
+THis is the place for you
